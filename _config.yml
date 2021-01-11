@@ -1,7 +1,9 @@
 title: Olimzhon Baimuratov # your name (or website title) here
 logo: "/images/emp_photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD in information systems, Associate professor 
+  PhD in information systems, 
+  <br><br>
+  Associate professor 
   <br><br>
   Second description 
   <br><br>
